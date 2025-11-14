@@ -1,6 +1,5 @@
 # Gesture-Recognition-for-Sign-Language-Translation
-This program will use gesture detection to help identify common ASL gestures as well as alphabets, translating them into sentences. These will be converted to speach using Google's TTS library. This application will be converted into a Android application for greater usability.
-
+This program will use gesture detection to help identify common ASL gestures as well as alphabets, translating them into sentences.
 
 <br>
 
