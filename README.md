@@ -28,11 +28,6 @@ This program will use gesture detection to help identify common ASL gestures as 
 
 <br> 
 
-
-
-
-https://github.com/user-attachments/assets/f6803ae7-c3b8-4423-8d03-8da95c708164
-
 ![1](https://github.com/user-attachments/assets/02fe026d-b65b-4f71-9c80-3ec8aac3a112)
 ![2](https://github.com/user-attachments/assets/24de96a9-229b-44fe-9989-f93cde0294c2)
 ![5](https://github.com/user-attachments/assets/f0b66614-f146-45fd-a520-02dc0b5ed11b)
